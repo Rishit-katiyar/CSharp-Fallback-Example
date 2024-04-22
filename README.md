@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed on your system:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/ResilientApplication.git
+git clone https://github.com/Rishit-katiyar/CSharp-Fallback-Example.git
 ```
 
 ### Building and Running
